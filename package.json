@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "react-icons": "^4.8.0",
-    "react-lottie": "^1.2.3",
     "react-router-dom": "^6.11.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
