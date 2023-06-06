@@ -5,7 +5,7 @@ import SecondScreen from './components/SecondScreen/SecondScreen'
 import DownloadButton from './components/Button/Button';
 
 
-const fileUrl = 'https://drive.google.com/file/d/1z2_i5K45sXPuiVgRAfvj0uAC7css5CGY/view';
+const fileUrl = 'https://drive.google.com/file/d/170U97i2Z_5fe6fGdbArC-dsaum_gTham/view';
 const label = 'Abrir Cúrriculo';
 
 
